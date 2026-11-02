@@ -1,16 +1,7 @@
 {
-  "avatar": "/icono-v2.png",
+  "avatar": "/perfil.jpg",
   "name": "Profe Alex",
   "bio": "Índice a mis herramientas y recursos.",
-  "theme": {
-    "bg": "#0a0a0a",
-    "cardBg": "rgba(2, 0, 20, 0.349)",
-    "cardBorder": "rgba(255,255,255,0.08)",
-    "text": "#ffffff",
-    "textSecondary": "rgba(255,255,255,0.55)",
-    "accent": "#818cf8",
-    "cardHover": "rgba(255,255,255,0.08)"
-  },
   "links": [
     {
       "title": "Recursos",
@@ -34,8 +25,8 @@
       "desc": "Cuestionarios interactivos para repasar contenidos potenciados por IA."
     },
     {
-      "title": "GenImages",
-      "url": "https://chat.edualex.uy/",
+      "title": "DeCabeza",
+      "url": "https://decabeza.edualex.uy/",
       "icon": "sparkles",
       "color": "#d946ef",
       "desc": "Generador de imágenes, mapas conceptuales y fichas didácticas."
@@ -55,8 +46,8 @@
       "desc": "Sorteá participantes al azar para actividades grupales."
     },
     {
-      "title": "Acortador",
-      "url": "https://short.uy/",
+      "title": "GooUY",
+      "url": "https://goo.uy/",
       "icon": "link",
       "color": "#f59e0b",
       "desc": "Acortador de enlaces simple."
@@ -81,13 +72,6 @@
       "icon": "layout-dashboard",
       "color": "#f43f5e",
       "desc": "Dashboard con herramientas para la gestión docente."
-    },
-    {
-      "title": "Álbum Histórico",
-      "url": "https://album.edualex.uy/",
-      "icon": "images",
-      "color": "#ec4899",
-      "desc": "Colección de figuras de personajes históricos."
     },
     {
       "title": "Álbum Histórico 1ra Ed.",
@@ -116,6 +100,13 @@
       "icon": "activity",
       "color": "#10b981",
       "desc": "Estado y monitoreo de todos los servicios."
+    },
+    {
+      "title": "EduAlex Auth",
+      "url": "https://auth.edualex.uy/",
+      "icon": "link",
+      "color": "#afcae8",
+      "desc": "Autenticación, una cuenta, todo edualex"
     },
     {
       "title": "Contacto",
